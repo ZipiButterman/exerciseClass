@@ -1,0 +1,195 @@
+C:\Users\PC\Desktop\ציפי\פרויקט\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe.config
+C:\Users\PC\Desktop\ציפי\פרויקט\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe
+C:\Users\PC\Desktop\ציפי\פרויקט\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.pdb
+C:\Users\PC\Desktop\ציפי\פרויקט\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ציפי\פרויקט\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\ציפי\פרויקט\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.Properties.Resources.resources
+C:\Users\PC\Desktop\ציפי\פרויקט\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ציפי\פרויקט\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ציפי\פרויקט\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.exe
+C:\Users\PC\Desktop\ציפי\פרויקט\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.pdb
+C:\Users\PC\Desktop\ציפי\פרויקט\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FormProject.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe.config
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.pdb
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FormProject.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmTeachers.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.Properties.Resources.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.exe
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.pdb
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmSubscriber.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttend.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttendSubscriberCourse.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCourse.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmPayments.resources
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FormProject.resources
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttend.resources
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttendSubscriberCourse.resources
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCourse.resources
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmPayments.resources
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmSubscriber.resources
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmTeachers.resources
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.Properties.Resources.resources
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.exe
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.pdb
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe.config
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.pdb
+C:\Users\PC\Desktop\ציפי\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCity.resources
+E:\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FormProject.resources
+E:\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttend.resources
+E:\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttendSubscriberCourse.resources
+E:\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCity.resources
+E:\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCourse.resources
+E:\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmPayments.resources
+E:\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmSubscriber.resources
+E:\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmTeachers.resources
+E:\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.Properties.Resources.resources
+E:\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.GenerateResource.cache
+E:\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.CoreCompileInputs.cache
+E:\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.exe
+E:\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.pdb
+E:\פרויקט2\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe.config
+E:\פרויקט2\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe
+E:\פרויקט2\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.pdb
+E:\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.AddLessonKind.resources
+E:\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csprojAssemblyReference.cache
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe.config
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.pdb
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.AddLessonKind.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FormProject.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttend.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttendSubscriberCourse.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCity.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCourse.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmPayments.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmSubscriber.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmTeachers.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.Properties.Resources.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.GenerateResource.cache
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.CoreCompileInputs.cache
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.exe
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.pdb
+T:\מדעי המחשב יב\בוטרמן צפורה\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.AssemblyReference.cache
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe.config
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.pdb
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.AssemblyReference.cache
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.SuggestedBindingRedirects.cache
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.AddLessonKind.resources
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FormProject.resources
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttend.resources
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttendSubscriberCourse.resources
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCity.resources
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCourse.resources
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmSubscriber.resources
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmTeachers.resources
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.Properties.Resources.resources
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.GenerateResource.cache
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.CoreCompileInputs.cache
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.exe
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.pdb
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCoursesList.resources
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmDelete.resources
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmPayments.resources
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe.config
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.pdb
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.AssemblyReference.cache
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.AddLessonKind.resources
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FormProject.resources
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttend.resources
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttendSubscriberCourse.resources
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCity.resources
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCourse.resources
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCoursesList.resources
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmDelete.resources
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmPayments.resources
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmSubscriber.resources
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmTeachers.resources
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.Properties.Resources.resources
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.GenerateResource.cache
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.CoreCompileInputs.cache
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.exe
+C:\Users\PC\שולחן העבודה\לימודים\סמינר\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.pdb
+D:\פרויקט\פרויקט2\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmStart.resources
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe.config
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.pdb
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.AssemblyReference.cache
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.AddLessonKind.resources
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FormProject.resources
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttend.resources
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttendSubscriberCourse.resources
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCity.resources
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCourse.resources
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCoursesList.resources
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmDelete.resources
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmPayments.resources
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmStart.resources
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmSubscriber.resources
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmTeachers.resources
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.Properties.Resources.resources
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.GenerateResource.cache
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.CoreCompileInputs.cache
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.exe
+C:\Users\PC\שולחן העבודה\פרוייקט סופי\11\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.pdb
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.AddLessonKind.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCity.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCoursesList.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmDelete.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmStart.resources
+T:\מדעי המחשב יב\בוטרמן צפורה\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.AssemblyReference.cache
+E:\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe.config
+E:\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe
+E:\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.pdb
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.AssemblyReference.cache
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.SuggestedBindingRedirects.cache
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.AddLessonKind.resources
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FormProject.resources
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttend.resources
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttendSubscriberCourse.resources
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCity.resources
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCourse.resources
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCoursesList.resources
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmDelete.resources
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmPayments.resources
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmStart.resources
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmSubscriber.resources
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmTeachers.resources
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.Properties.Resources.resources
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.GenerateResource.cache
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.CoreCompileInputs.cache
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.exe
+E:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.pdb
+D:\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe.config
+D:\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.exe
+D:\ExerciseClass\ExerciseClass\bin\Debug\ExerciseClass.pdb
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.AssemblyReference.cache
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.SuggestedBindingRedirects.cache
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.AddLessonKind.resources
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FormProject.resources
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttend.resources
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmAttendSubscriberCourse.resources
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCity.resources
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCourse.resources
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmCoursesList.resources
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmDelete.resources
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmPayments.resources
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmStart.resources
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmSubscriber.resources
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.GUI.FrmTeachers.resources
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.Properties.Resources.resources
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.GenerateResource.cache
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.csproj.CoreCompileInputs.cache
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.exe
+D:\ExerciseClass\ExerciseClass\obj\Debug\ExerciseClass.pdb
